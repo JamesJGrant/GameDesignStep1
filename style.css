@@ -138,6 +138,7 @@ body {
     font-family: fantasy;
     margin-top: 330px;
 }
+
 .el__content {
     z-index: -1;
     position: absolute;
@@ -469,5 +470,5 @@ h6 {
 }
 
 a {
-    color: aqua;
+    color: lightgray;
 }
