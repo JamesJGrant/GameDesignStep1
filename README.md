@@ -17,6 +17,6 @@ should be a coherent game concept (board or digital) that will form the basis of
   
 Website: https://jamesjgrant.github.io/GameDesignStep1/
   
-Video: https://studio.youtube.com/video/BUDruvXnG7M/edit
+Video: https://www.youtube.com/watch?v=BUDruvXnG7M&ab_channel=JamesGrant
  
 Game: https://jamesjgrant.github.io/GameDesignStep1/TheFoolsJourneyFinal/TheFoolsJourney/index.html
